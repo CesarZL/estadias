@@ -10,3 +10,20 @@
 10. [Taylor and Francis](https://www.overleaf.com/latex/templates/taylor-and-francis-latex-template-for-authors-interact-layout-plus-apa-reference-style/jqhskrsqqzfz) *(DESCARGADO)*
 11. [Emerald](https://emeraldpublishinggroup.freshdesk.com/support/solutions/articles/36000215573-can-i-prepare-my-manuscript-in-latex-) *(NO EXISTE PLANTILLA PERO TIENEN GUÍAS DE ESTILOS QUE SEGUIR)*
 12. [IEEE Transactions](https://template-selector.ieee.org/secure/templateSelector/downloadTemplate?publicationTypeId=1&titleId=84&articleId=3&fileId=262) *(DESCARGADO)*
+
+
+# Instalar pdflatex y paquetes básicos de LaTeX
+sudo apt-get update
+sudo apt-get install texlive-latex-base
+
+# Instalar fuentes recomendadas por LaTeX
+sudo apt-get install texlive-fonts-recommended
+
+# Instalar fuentes adicionales para LaTeX
+sudo apt-get install texlive-fonts-extra
+
+# Instalar paquetes adicionales de LaTeX
+sudo apt-get install texlive-latex-extra
+
+# Instalar utilidades de fuentes para LaTeX
+sudo apt-get install texlive-font-utils
