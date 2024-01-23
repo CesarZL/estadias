@@ -27,3 +27,7 @@ sudo apt-get install texlive-latex-extra
 
 # Instalar utilidades de fuentes para LaTeX
 sudo apt-get install texlive-font-utils
+
+
+# Subir carpeta a página web
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/webkitdirectory
